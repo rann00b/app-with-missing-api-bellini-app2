@@ -1,0 +1,14 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [
+    {
+      "name": "swaggerPetstore",
+      "type": "open-api",
+      "id": "650adde9ed8245a8e5e24049"
+    }
+  ],
+  "children": []
+}
